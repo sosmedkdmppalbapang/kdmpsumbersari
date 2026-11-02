@@ -38,9 +38,8 @@ const Home = () => {
           
           <SectionTitle
             subtitle="Unit Usaha Terpadu"
-            title="Layanan Utama Koperasi"
-            highlight="Desa"
-            description="Beberapa unit usaha prioritas Kopdes Merah Putih yang melayani kebutuhan warga desa."
+            title="Layanan Utama"
+            highlight="Koperasi"
             badge="Unit Layanan"
           />
 
